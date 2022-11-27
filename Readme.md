@@ -13,14 +13,10 @@ This repo contains my data gathering of US landing craft production data.
 
 ### Types of Landing Craft
 
-|Acronym     | Image     | Description     |
-|LCVP--------|![LCVP]|<img src=".\Images\Darke_APA-159_-_LCVP_18.jpg" alt="drawing" width="200"/>-----------------|
-
-
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Acronym | Description | Image |
+| --- | --- | --- |
+| LCVP | Landing Craft Vehicle Personnel | <img src=".\Images\Darke_APA-159_-_LCVP_18.jpg" alt="LCVP" width="200"/>- |
+| LCT | Landing Craft Tank | <img src =".\Images\350px-IWM-H-19057-Crusader-landing-19420426.jpg" alt="LCT" width="200"/>|
 
 ## Analysis
 
