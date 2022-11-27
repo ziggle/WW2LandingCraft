@@ -17,6 +17,11 @@ This repo contains my data gathering of US landing craft production data.
 |LCVP--------|![LCVP]|<img src=".\Images\Darke_APA-159_-_LCVP_18.jpg" alt="drawing" width="200"/>-----------------|
 
 
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
 ## Analysis
 
 
