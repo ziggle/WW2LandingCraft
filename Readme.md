@@ -18,6 +18,7 @@ This repo contains my data gathering of US landing craft production data.
 | LCVP | Landing Craft Vehicle Personnel | <img src=".\Images\Darke_APA-159_-_LCVP_18.jpg" alt="LCVP" width="200"/>- |
 | LCT | Landing Craft Tank | <img src =".\Images\350px-IWM-H-19057-Crusader-landing-19420426.jpg" alt="LCT" width="200"/>|
 | LCM | Landing Craft Mechanized | <img src = ".\Images\754px-Troops_marching_up_beach_during_loading_for_Kiska_operation,_13_August_1943_(80-G-475421).jpg" alt="LCM" width="200">|
+| LSD | Landing Ship Dock | <img src = ".\Images\USS_Ashland;10120107.jpg" alt="LSD" width="200">|
 | LSM | Landing Ship Medium | <img src = ".\Images\Oceanside_LSM-175.jpg"  alt="LSM" width="200">|
 | LVT | Landing Vehicle Tracked | <img src = ".\Images\LVT-4_1.jpg" alt="LVT" width ="200">|
 ## Analysis
